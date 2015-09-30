@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋闕疑
-#+DATE: 2015-09-23 09:40:02
-#+PROPERTY: JUAN 46
+#+DATE: 2015-08-24 22:15:13.742358
+#+PROPERTY: ID KR1e0065
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 跋
 <pb:KR1e0065_WYG_046-1a>¶
 　十一世伯祖子美公學者稱師山先生當元之末著¶
 　春秋闕疑四十五卷稿藏於家未經授梓四方學者¶
@@ -16,4 +18,3 @@
 　夫先公致命大節則具於元史生平行履之詳則見¶
 　於同郡汪環谷先生所為狀中可無贅云¶
 　康熙辛卯秋九月歙鄭肇新謹識¶
-

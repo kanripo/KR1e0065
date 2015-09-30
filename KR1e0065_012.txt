@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋闕疑
-#+DATE: 2015-09-23 09:40:02
-#+PROPERTY: JUAN 12
+#+DATE: 2015-08-24 22:15:13.004745
+#+PROPERTY: ID KR1e0065
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十二
 <pb:KR1e0065_WYG_012-1a>¶
 欽定四庫全書¶
 　春秋闕疑卷十二　　　　　元　鄭玉　撰¶
@@ -236,4 +238,3 @@
 　顛而不扶則將焉用彼相矣鄭棄其師君臣同責也¶
 　¶
 　春秋闕疑卷十二¶
-
